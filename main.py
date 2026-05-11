@@ -18,6 +18,9 @@ st.sidebar.title("☁️ SAA-C03 核心知識體系")
 
 # 3. 完整的 10 大章節與所有小節索引 (一次補齊)
 menu_structure = {
+    "0. 雲端造物主 (Blueprint)": {
+        "📖 雲端造物主的求生指南": "ch0_blueprint.md"
+    },
     "1. VPC 網路設計 (Networking)": {
         "1-1 VPC 基礎與子網路劃分": "ch1_1_vpc_base.md",
         "1-2 網路安全 (SG vs NACL)": "ch1_2_security.md",
