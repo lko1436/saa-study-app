@@ -16,7 +16,7 @@ st.markdown("""
 
 st.sidebar.title("☁️ SAA-C03 核心知識體系")
 
-# 3. 完整的 10 大章節與所有小節索引 (一次補齊)
+# 3. 完整的戰鬥地圖索引 (包含第 0 章與所有小節)
 menu_structure = {
     "0. 雲端造物主 (Blueprint)": {
         "📖 雲端造物主的求生指南": "ch0_blueprint.md"
